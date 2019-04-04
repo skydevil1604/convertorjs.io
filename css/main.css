@@ -6503,7 +6503,7 @@ label.panel-block {
   padding: 3rem 1.5rem; }
 
 .section {
-  background-image: url('/money.jpg');
+  background-image: url('./money.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
